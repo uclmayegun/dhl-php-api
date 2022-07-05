@@ -1,0 +1,19 @@
+{
+    "name": "ucl/dhl-php-api",
+    "description": "PHP wrapper for DHL Web Tools API",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ucl\\DhlPhpApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "UCL Systems",
+            "email": "uczxmlu@ucl.ac.uk"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
