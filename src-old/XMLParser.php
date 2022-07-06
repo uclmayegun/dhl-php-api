@@ -1,6 +1,6 @@
 <?php
 
-namespace DHL;
+namespace USPS;
 
 /*
  * Array2XML: A class to convert array in PHP to XML

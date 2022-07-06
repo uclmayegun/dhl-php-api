@@ -1,6 +1,6 @@
 <?php
 
-namespace DHL;
+namespace USPS;
 
 /**
  * USPS Zip code lookup by city/state

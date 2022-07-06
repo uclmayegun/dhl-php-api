@@ -1,6 +1,6 @@
 <?php
 
-namespace USPS;
+namespace DHL;
 
 /**
  * USPS Address Verify Class

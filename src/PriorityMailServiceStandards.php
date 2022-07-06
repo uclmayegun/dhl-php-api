@@ -1,6 +1,6 @@
 <?php
 
-namespace USPS;
+namespace DHL;
 
 /**
  * Class PriorityMailServiceStandards.

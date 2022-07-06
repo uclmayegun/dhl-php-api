@@ -1,6 +1,6 @@
 <?php
 
-namespace DHL;
+namespace USPS;
 
 /**
  * USPS Rate Package

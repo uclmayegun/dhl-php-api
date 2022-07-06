@@ -1,6 +1,6 @@
 <?php
 
-namespace DHL;
+namespace USPS;
 
 /**
  * Class PriorityLabel.
